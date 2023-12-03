@@ -20,6 +20,7 @@ Realizar un programa que utilice métodos para **cargar**  e **imprimir** inform
 # Ejercicio 3 (String): 
 
 •	Cargue por teclado dos variables del tipo String. Desplegar un menú con:
+
 	1. Imprimir ambas cadenas y su largo.
 	2. Comparar igualdad y quien es menor (en caso de ser cadenas distintas).
 	3. Cambiar una cadena a todo mayúsculas y otra a todo minúsculas.
