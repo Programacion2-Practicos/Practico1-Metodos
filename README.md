@@ -2,19 +2,19 @@
 Utilice sangría, comentarios y buenos nombres para las declaraciones.
 Para todos los ejercicios deberá realizar una organización en métodos.
 
-# Ejercicio 1 (Scanner): https://replit.com/@utu_liceo/Practico1ejer1#README.md
+# Ejercicio 1 (Scanner): 
 
 Realizar un programa que utilice métodos para **cargar**  e **imprimir** información sobre una persona: Apellido (String), edad (int), altura (double) y cédula (int). 
 
 
-# Ejercicio 2 (Random): Juego “Adivinar el número”. https://replit.com/@utu_liceo/Practico1ejer2#README.md
+# Ejercicio 2 (Random): Juego “Adivinar el número”. 
 
 •	Generar un único número aleatorio entre el 1 y el 1000 (será fijo durante la ejecución).
 •	El usuario ingresará un valor, se imprime “Demasiado grande” si el número ingresado es más grande, y “Demasiado chico”, si el número ingresado es demasiado chico. 
 •	El usuario ingresa números hasta que coincida con el número aleatorio. 
 •	El programa finaliza con el mensaje “Felicitaciones, acertó el número”.
 
-# Ejercicio 3 (String): https://replit.com/@utu_liceo/-Practico1ejer3#README.md
+# Ejercicio 3 (String): 
 
 •	Cargue por teclado dos variables del tipo String. Desplegar un menú con:
 	1. Imprimir ambas cadenas y su largo.
@@ -25,15 +25,14 @@ Realizar un programa que utilice métodos para **cargar**  e **imprimir** inform
 
 Deberá investigar en la API de Java u otro sitio web acerca de los métodos de la clase String.
 
-# Ejercicio 4 (Math):  https://replit.com/@utu_liceo/Practico1ejer4#README.md
-
-•Cargue a,b y c, tres variables del tipo double. 	
-Desplegar un menú con:
-1. El cuadrado y la raíz cuadrada de cada valor.
-2. Bhaskara utilizando ax2+ bx + c.  (ax está al cuadrado, el 2 va arriba chiquito!!!)
-3. El mayor de tres números, reutilizando el método que calcula el mayor de 2.
-0. Salir
-Deberá investigar en la API de Java u otro sitio web acerca de los métodos de la clase Math.
+# Ejercicio 4 (Math):  
+•	Cargue a,b y c, tres variables del tipo double. 	
+•	Desplegar un menú con:
+		1. El cuadrado y la raíz cuadrada de cada valor.
+		2. Bhaskara utilizando ax2+ bx + c.  (ax está al cuadrado, el 2 va arriba chiquito!!!)
+		3. El mayor de tres números, reutilizando el método que calcula el mayor de 2.
+		0. Salir
+		Deberá investigar en la API de Java u otro sitio web acerca de los métodos de la clase Math.
 
 Ejer4 está sin hacer
 
