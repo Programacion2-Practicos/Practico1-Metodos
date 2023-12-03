@@ -30,7 +30,8 @@ Realizar un programa que utilice métodos para **cargar**  e **imprimir** inform
 Deberá investigar en la API de Java u otro sitio web acerca de los métodos de la clase String.
 
 # Ejercicio 4 (Math):  
-•	Cargue a,b y c, tres variables del tipo double. 	
+•	Cargue a,b y c, tres variables del tipo double. 
+
 •	Desplegar un menú con:
 		1. El cuadrado y la raíz cuadrada de cada valor.
 		2. Bhaskara utilizando ax2+ bx + c.  (ax está al cuadrado, el 2 va arriba chiquito!!!)
