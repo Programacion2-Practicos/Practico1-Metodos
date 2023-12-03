@@ -10,8 +10,11 @@ Realizar un programa que utilice métodos para **cargar**  e **imprimir** inform
 # Ejercicio 2 (Random): Juego “Adivinar el número”. 
 
 •	Generar un único número aleatorio entre el 1 y el 1000 (será fijo durante la ejecución).
+
 •	El usuario ingresará un valor, se imprime “Demasiado grande” si el número ingresado es más grande, y “Demasiado chico”, si el número ingresado es demasiado chico. 
+
 •	El usuario ingresa números hasta que coincida con el número aleatorio. 
+
 •	El programa finaliza con el mensaje “Felicitaciones, acertó el número”.
 
 # Ejercicio 3 (String): 
