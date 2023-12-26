@@ -8,16 +8,19 @@ Realice un proyecto llamado **Practico1**, con cuatro paquetes, *ejer1*, *ejer2*
  
 -  una clase llamada *Principal* dejo su código  [aquí](src/ejer1/Principal.java) desde donde podra descargar y ejecutar el Programa1   
 
-# Ejercicio 2 (Random): Juego “Adivinar el número”. 
+## Ejercicio 2 (Random):  En el paquete **ejer2** crear:
 
-•	Generar un único número aleatorio entre el 1 y el 1000 (será fijo durante la ejecución).
+-  una clase llamada *Programa2*, donde realice un programa que genere un único número aleatorio entre el 1 y el 1000 (será fijo durante la ejecución) y luego sucede lo siguiente:
 
-•	El usuario ingresará un valor, se imprime “Demasiado grande” si el número ingresado es más grande, y “Demasiado chico”, si el número ingresado es demasiado chico. 
+	•	El usuario ingresará un valor, se imprime “Demasiado grande” si el número ingresado es más grande, y “Demasiado chico”, si el número ingresado es demasiado chico. 
+	•	El usuario ingresa números hasta que coincida con el número aleatorio. 
+	•	El programa finaliza con el mensaje “Felicitaciones, acertó el número”.
 
-•	El usuario ingresa números hasta que coincida con el número aleatorio. 
+	Dejo su código para completar   [aquí](src/ejer1/Programa.java)
+ 
+-  una clase llamada *Principal* dejo su código  [aquí](src/ejer1/Principal.java) desde donde podra descargar y ejecutar el Programa2  
 
-•	El programa finaliza con el mensaje “Felicitaciones, acertó el número”.
-
+•	
 # Ejercicio 3 (String): 
 
 •	Cargue por teclado dos variables del tipo String. Desplegar un menú con:
