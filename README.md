@@ -55,8 +55,8 @@ Dejo su código para completar   [aquí](src/ejer3/Programa.java)
 		0. Salir
   
 		Deberá investigar en la API de Java u otro sitio web acerca de los métodos de la clase Math.
-  Dejo su código para completar   [aquí](src/ejer3/Programa.java)
-  #### - Una clase llamada *Principal* . Dejo su código  [aquí](src/ejer3/Principal.java) desde donde podra descargar y ejecutar el Programa 
+  Dejo su código para completar   [aquí](src/ejer4/Programa.java)
+  #### - Una clase llamada *Principal* . Dejo su código  [aquí](src/ejer4/Principal.java) desde donde podra descargar y ejecutar el Programa 
 
 
 
