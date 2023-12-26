@@ -10,7 +10,7 @@ Realice un proyecto llamado **Practico1**, con cuatro paquetes, *ejer1*, *ejer2*
 
 ## Ejercicio 2 (Random):  En el paquete **ejer2** crear:
 
-### una clase llamada *Programa2*, donde realice un programa que genere un único número aleatorio entre el 1 y el 1000 (será fijo durante la ejecución) y además sucede lo siguiente:
+#### - Una clase llamada *Programa2*, donde realice un programa que genere un único número aleatorio entre el 1 y el 1000 (será fijo durante la ejecución) y además sucede lo siguiente:
 
 	•	El usuario ingresará un valor, se imprime “Demasiado grande” si el número ingresado es más grande, y “Demasiado chico”, si el número ingresado es demasiado chico.
  
@@ -20,7 +20,7 @@ Realice un proyecto llamado **Practico1**, con cuatro paquetes, *ejer1*, *ejer2*
 
 	Dejo su código para completar   [aquí](src/ejer2/Programa.java)
  
-## una clase llamada *Principal* dejo su código  [aquí](src/ejer2/Principal.java) desde donde podra descargar y ejecutar el Programa2  
+#### - Una clase llamada *Principal* dejo su código  [aquí](src/ejer2/Principal.java) desde donde podra descargar y ejecutar el Programa2  
 
 	
 # Ejercicio 3 (String): 
