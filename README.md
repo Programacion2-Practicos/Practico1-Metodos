@@ -6,21 +6,21 @@ Realice un proyecto llamado **Practico1**, con cuatro paquetes, *ejer1*, *ejer2*
 
 #### - Una clase llamada *Programa1*, donde realice un programa que utilice métodos para **cargar**  e **imprimir** información sobre una persona: Apellido (String), edad (int), altura (double) y cédula (int). Dejo su código para completar   [aquí](src/ejer1/Programa.java)
  
-#### - Una clase llamada *Principal* dejo su código  [aquí](src/ejer1/Principal.java) desde donde podra descargar y ejecutar el Programa1   
+#### - Una clase llamada *Principal* . Dejo su código  [aquí](src/ejer1/Principal.java) desde donde podra descargar y ejecutar el Programa1   
 
 ## Ejercicio 2 (Random):  En el paquete **ejer2** crear:
 
 #### - Una clase llamada *Programa2*, donde realice un programa que genere un único número aleatorio entre el 1 y el 1000 (será fijo durante la ejecución) y además sucede lo siguiente:
 
-	•El usuario ingresará un valor, se imprime “Demasiado grande” si el número ingresado es más grande, y “Demasiado chico”, si el número ingresado es demasiado chico.
+	• El usuario ingresará un valor, se imprime “Demasiado grande” si el número ingresado es más grande, y “Demasiado chico”, si el número ingresado es demasiado chico.
  
-	•El usuario ingresa números hasta que coincida con el número aleatorio.
+	• El usuario ingresa números hasta que coincida con el número aleatorio.
 
-	•El programa finaliza con el mensaje “Felicitaciones, acertó el número”.
+	• El programa finaliza con el mensaje “Felicitaciones, acertó el número”.
 
 Dejo su código para completar   [aquí](src/ejer2/Programa.java)
  
-#### - Una clase llamada *Principal* dejo su código  [aquí](src/ejer2/Principal.java) desde donde podra descargar y ejecutar el Programa2  
+#### - Una clase llamada *Principal* . Dejo su código  [aquí](src/ejer2/Principal.java) desde donde podra descargar y ejecutar el Programa2  
 
 	
 # Ejercicio 3 (String): 
