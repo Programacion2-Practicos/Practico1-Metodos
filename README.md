@@ -4,13 +4,13 @@ Realice un proyecto llamado **Practico1**, con cuatro paquetes, *ejer1*, *ejer2*
 
 ## Ejercicio 1 (Scanner): En el paquete **ejer1** crear:
 
-#### - Una clase llamada *Programa1*, donde realice un programa que utilice métodos para **cargar**  e **imprimir** información sobre una persona: Apellido (String), edad (int), altura (double) y cédula (int). Dejo su código para completar   [aquí](src/ejer1/Programa.java)
+#### - Una clase llamada *Programa*, donde realice un programa que utilice métodos para **cargar**  e **imprimir** información sobre una persona: Apellido (String), edad (int), altura (double) y cédula (int). Dejo su código para completar   [aquí](src/ejer1/Programa.java)
  
-#### - Una clase llamada *Principal* . Dejo su código  [aquí](src/ejer1/Principal.java) desde donde podra descargar y ejecutar el Programa1   
+#### - Una clase llamada *Principal* . Dejo su código  [aquí](src/ejer1/Principal.java) desde donde podra descargar y ejecutar el Programa   
 
 ## Ejercicio 2 (Random):  En el paquete **ejer2** crear:
 
-#### - Una clase llamada *Programa2*, donde realice un programa que genere un único número aleatorio entre el 1 y el 1000 (será fijo durante la ejecución) y además sucede lo siguiente:
+#### - Una clase llamada *Programa*, donde realice un programa que genere un único número aleatorio entre el 1 y el 1000 (será fijo durante la ejecución) y además sucede lo siguiente:
 
 	• El usuario ingresará un valor, se imprime “Demasiado grande” si el número ingresado es más grande, y “Demasiado chico”, si el número ingresado es demasiado chico.
  
@@ -20,11 +20,11 @@ Realice un proyecto llamado **Practico1**, con cuatro paquetes, *ejer1*, *ejer2*
 
 Dejo su código para completar   [aquí](src/ejer2/Programa.java)
  
-#### - Una clase llamada *Principal* . Dejo su código  [aquí](src/ejer2/Principal.java) desde donde podra descargar y ejecutar el Programa2  
+#### - Una clase llamada *Principal* . Dejo su código  [aquí](src/ejer2/Principal.java) desde donde podra descargar y ejecutar el Programa 
 
 	
 ## Ejercicio 3 (String):  En el paquete **ejer3** crear:
-#### - Una clase llamada *Programa3*, donde realice un programa que:
+#### - Una clase llamada *Programa*, donde realice un programa que:
 
 •	Cargue por teclado dos variables del tipo String y despliegue un menú con las opciones:
 
@@ -37,13 +37,14 @@ Dejo su código para completar   [aquí](src/ejer2/Programa.java)
 Deberá investigar en la API de Java u otro sitio web acerca de los métodos de la clase String.
 Dejo su código para completar   [aquí](src/ejer3/Programa.java)
 
-#### - Una clase llamada *Principal* . Dejo su código  [aquí](src/ejer3/Principal.java) desde donde podra descargar y ejecutar el Programa3  
+#### - Una clase llamada *Principal* . Dejo su código  [aquí](src/ejer3/Principal.java) desde donde podra descargar y ejecutar el Programa 
 
 
-# Ejercicio 4 (Math):  
-•	Cargue a,b y c, tres variables del tipo double. 
+## Ejercicio 4 (Math):   En el paquete **ejer4** crear:
+#### - Una clase llamada *Programa*, donde realice un programa que:
+•	Cargue a,b y c, tres variables del tipo double y
 
-•	Desplegar un menú con:
+•	Despliegue un menú con:
 
 		1. El cuadrado y la raíz cuadrada de cada valor.
   
@@ -54,6 +55,8 @@ Dejo su código para completar   [aquí](src/ejer3/Programa.java)
 		0. Salir
   
 		Deberá investigar en la API de Java u otro sitio web acerca de los métodos de la clase Math.
+  Dejo su código para completar   [aquí](src/ejer3/Programa.java)
+  #### - Una clase llamada *Principal* . Dejo su código  [aquí](src/ejer3/Principal.java) desde donde podra descargar y ejecutar el Programa 
 
-Ejer4 está sin hacer
+
 
