@@ -1,11 +1,13 @@
 # Practico1 2024
-Utilice sangría, comentarios y buenos nombres para las declaraciones.
-Para todos los ejercicios deberá realizar una organización en métodos.
 
-# Ejercicio 1 (Scanner): 
+Realice un proyecto llamado **Practico1**, con cuatro paquetes, *ejer1*, *ejer2*, *ejer3* y *ejer4*.
 
-Realizar un programa que utilice métodos para **cargar**  e **imprimir** información sobre una persona: Apellido (String), edad (int), altura (double) y cédula (int). 
+## Ejercicio 1 (Scanner): En el paquete **ejer1** crear:
 
+-  una class llamada *Programa1*, donde realice un programa que utilice métodos para **cargar**  e **imprimir** información sobre una persona: Apellido (String), edad (int), altura (double) y cédula (int). Dejo su código para completar   [aquí](../blob/main/Ejer1_Fecha/src/logica/Fecha.java)
+ 
+-  una clase llamada *Principal* dejo su código  [aquí](../blob/main/Ejer1_Fecha/src/logica/Fecha.java)
+ desde donde podra ejecutar el programa1   
 
 # Ejercicio 2 (Random): Juego “Adivinar el número”. 
 
