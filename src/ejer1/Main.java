@@ -1,10 +1,10 @@
 package ejer1;
 
-public class Main {
+public class Principal {
 
 	public static void main(String[] args) {
-		Programa prog=new Programa();
-		prog.iniciar();
+		Programa1 ej1=new Programa1();
+		ej1.iniciar();
 	}
 
 }
