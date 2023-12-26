@@ -4,9 +4,9 @@ Realice un proyecto llamado **Practico1**, con cuatro paquetes, *ejer1*, *ejer2*
 
 ## Ejercicio 1 (Scanner): En el paquete **ejer1** crear:
 
--  una clase llamada *Programa1*, donde realice un programa que utilice métodos para **cargar**  e **imprimir** información sobre una persona: Apellido (String), edad (int), altura (double) y cédula (int). Dejo su código para completar   [aquí]([../blob/main/Programa1.java))
+-  una clase llamada *Programa1*, donde realice un programa que utilice métodos para **cargar**  e **imprimir** información sobre una persona: Apellido (String), edad (int), altura (double) y cédula (int). Dejo su código para completar   [aquí]([../blob/main/Programa1.java)
  
--  una clase llamada *Principal* dejo su código  [aquí](../blob/main/Ejer1_Fecha/src/logica/Fecha.java)
+-  una clase llamada *Principal* dejo su código  [aquí](..blob/main/Principal.java)
  desde donde podra ejecutar el programa1   
 
 # Ejercicio 2 (Random): Juego “Adivinar el número”. 
