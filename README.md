@@ -6,7 +6,7 @@ Realice un proyecto llamado **Practico1**, con cuatro paquetes, *ejer1*, *ejer2*
 
 -  una clase llamada *Programa1*, donde realice un programa que utilice métodos para **cargar**  e **imprimir** información sobre una persona: Apellido (String), edad (int), altura (double) y cédula (int). Dejo su código para completar   [aquí](src/ejer1/Programa.java)
  
--  una clase llamada *Principal* dejo su código  [aquí]([https://github.com/Programacion2-Practicos/Practico1-2024/blob/main/Principal.java])
+-  una clase llamada *Principal* dejo su código  [aquí](src/ejer1/Main.java)
  desde donde podra ejecutar el programa1   
 
 # Ejercicio 2 (Random): Juego “Adivinar el número”. 
