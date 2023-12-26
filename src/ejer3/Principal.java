@@ -4,7 +4,7 @@ public class Principal {
 	public static void main(String[] args){
 		
 		
-		Programa miProg3=new Programa();
+		Programa3 miProg3=new Programa3();
 		miProg3.iniciar();
 		
 	}
