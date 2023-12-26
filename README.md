@@ -1,4 +1,4 @@
-# Practico1 2024
+# Practico1: Estructuras de control
 
 Realice un proyecto llamado **Practico1**, con cuatro paquetes, *ejer1*, *ejer2*, *ejer3* y *ejer4*.
 
