@@ -21,35 +21,19 @@ public class Programa {
 	
 	//devuelve un numero aleatorio entre 1 y 100
 	int generarAleatorio(){
-		Random aleatorio=new Random();
-		
-		int valor= 1 + aleatorio.nextInt(100);
-		return valor;
+		//Complete aquí
 	}
 	
 	//pide un nro por pantalla
 	 int pedirNumero(){
 		 
-		 Scanner entrada=new Scanner(System.in);
-		 
-		 System.out.println("Ingrese numero: ");
-		 int numero=entrada.nextInt();
-		 return numero;
+		//Complete aquí
 		 
 	 }
 	
 	 //compara dos enteros a y b. Devuelve un String indicando si es menor, mayor o igual
 	 String compararNumeros(int a, int b){
-		 String esMenor;
-		 if (a < b)
-				esMenor="Demasiado chico";
-		 else
-				if (a > b)
-					esMenor="Demasiado grande";
-				else
-					esMenor="igual";
-	 
-		 return esMenor;
+		//Complete aquí
 	 }
 	
 }
