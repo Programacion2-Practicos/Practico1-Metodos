@@ -15,7 +15,9 @@ Realice un proyecto llamado **Practico1_Metodos**, con cuatro paquetes, *ejer1*,
 #### - Una clase llamada *Procesos*, con los siguiente métodos:
 
 •Función **parImpar**: recibe un entero  y determine si es par o impar devolviendo un boolean
+
 •Función  **mayorDeTres**: recibe tres enteros y devuelva el mayor de ellos
+
 •Procedimiento  **esMayorEdad**: recibe una edad, si es mayor de 18 dirá "mayor de edad" sino dirá "menor de edad"
 
 Deberá investigar en la API de Java u otro sitio web acerca de los métodos de la clase String.
