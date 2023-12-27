@@ -1,10 +1,10 @@
-# Practico1: Estructuras de control
+# Practico1: Métodos
 
-Realice un proyecto llamado **Practico1**, con cuatro paquetes, *ejer1*, *ejer2*, *ejer3* y *ejer4*.
+Realice un proyecto llamado **Practico1_Metodos**, con cuatro paquetes, *ejer1*, *ejer2*, *ejer3* y *ejer4*.
 
-## Ejercicio 1 (Scanner): En el paquete **ejer1** crear:
+## Ejercicio 1 (La Calculadora): En el paquete **ejer1** crear:
 
-#### - Una clase llamada *Programa*, donde realice un programa que utilice métodos para **cargar**  e **imprimir** información sobre una persona: Apellido (String), edad (int), altura (double) y cédula (int). Dejo su código para completar   [aquí](src/ejer1/Programa.java)
+#### - Una clase llamada *Calculadora*, donde realice un programa que utilice métodos para realizar las cuatro operaciones básicas: **sumar**, **restar**, **multiplicar** y **dividir** Dejo su código para completar   [aquí](src/ejer1/Calculadora.java)
  
 #### - Una clase llamada *Principal* . Dejo su código  [aquí](src/ejer1/Principal.java) desde donde podra descargar y ejecutar el Programa   
 
