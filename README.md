@@ -33,7 +33,8 @@ Para probar los tres métodos realizados, en todos los casos debe pedir al usuar
 
 •	El metodo  *contar*: determine cuántas personas son menores, cuántas son mayores de edad y cuántas son adultos mayores. Tener en cuenta que: Mayor de edad tiene 18 años o más y un adulto mayor tiene más de 60  años de edad.
 Observar que éste método va a tener que recorrer el array e ir contando cuántos son menores, mayores o adultosMayores, dichos datos quedarán en las variables globales creadas para tal fin.
-•	El metodo  mostrar: mostrará los valores calculados por el método contar o sea mostrará el valor de las *variables globales* menores, mayores y adultosMayores
+
+•	El metodo  mostrar: mostrará los valores calculados por el método contar o sea mostrará los  valores de las *variables globales* menores, mayores y adultosMayores
 
 
   Dejo su código para completar   [aquí](src/ejer4/Programa.java)
