@@ -6,7 +6,7 @@ Realice un proyecto llamado **Practico1_Metodos**, con cuatro paquetes, *ejer1*,
 
  - Una clase llamada *Calculadora*, donde realice un programa que utilice métodos para realizar las cuatro operaciones básicas: *sumar*, *restar*, *multiplicar*, *dividir* y *modulo*. Dejo su código para completar   [aquí](src/ejer1/Calculadora.java)
  
- - Una clase llamada *Principal* . Dejo su código  [aquí](src/ejer1/Principal.java) desde donde podra descargar y ejecutar el Programa   
+ - Una clase llamada *Principal* . Dejo su código  [aquí](src/ejer1/Principal.java) desde donde podra completar y ejecutar el Programa   
 
 ## Ejercicio 2 (Calculadora v2):  En el paquete **ejer2** copiar  las clases Principal y Calculadora del punto anterior.
 - En la clase *Principal*, usando los métodos de la clase *Calculadora*, probarlos nuevamente pero ahora pidiéndole al usuario que ingrese los valores, mostrar el resultado en pantalla de todas las funciones. Dejo su código hecho para la suma, completar para el resto de las operaciones.  [aquí](src/ejer2/Principal.java)
