@@ -9,6 +9,12 @@ public class Calculadora {
 	}
 
 	//complete el resto de los métodos solicitados
+	//método restar
+
+	//método multiplicar
+
+	//método dividir (recuerde chequear que no se realice la operación si el divisor es 0
+	
 	
 	
 	
