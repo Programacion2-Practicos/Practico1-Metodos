@@ -6,11 +6,7 @@ public class Principal {
 		Scanner entrada = new Scanner(System.in);
 		
 		int cantidadEdades;
-		System.out.println("Cuantas edades va a ingresar? ");
-		cantidadEdades = entrada.nextInt();
-		prog4.ingresoEdades(cantidadEdades);
-		prog4.contar();
-		prog4.mostrar();
+		//completar
 
 		
 	}
