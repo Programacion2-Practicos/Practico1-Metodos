@@ -3,31 +3,30 @@ package ejer4;
 import java.util.Scanner;
 
 public class Programa {
-	Scanner entrada = new Scanner(System.in);
+	import java.util.Scanner;
+
+	int edades[];
+	int menores;
+	int mayores;
+	int adultosMayores;
 	
 	
-	void iniciar() {
-	
-		double a = pedirNum();
-		double b = pedirNum();
-		double c = pedirNum();
-		
-		menu(a,b,c);
-	}
-	
-	//pedir datos a usuario
-	double pedirNum() {
-		//Complete aquí
+	//GUARDA en edades LAS EDADES INGRESADAS
+	void ingresoEdades(int a) {
+		//completar
+				
 		
 	}
 	
-	//Menu - metodo
+	void contar() {
 	
-	void menu (double num1, double num2, double num3) {
-		
-		//Complete aquí
-		
+		//completar
 	}
 	
+	//MOSTRAR EN PANTALLA LA INFORMACION
+	void mostrar() {
+		
+		//completar
+	}
 	
 }
