@@ -39,8 +39,8 @@ Observar que éste método va a tener que recorrer el array e ir contando cuánt
 
   Dejo su código para completar   [aquí](src/ejer4/Programa.java)
   #### - Una clase llamada *Principal*. 
-  En la clase Principal debes solicitar al usuario cuántas edades se van a ingresar. Este dato es el parámetro que recibirá el método *ingresoEdades*.
-  Dejo su código  [aquí](src/ejer4/Principal.java) desde donde podra descargar y ejecutar el Programa 
+  En la clase Principal debes solicitar al usuario cuántas edades se van a ingresar. Este dato es el parámetro que recibirá el método *ingresoEdades*. Además llamar a los métodos contar y mostrar.
+  Dejo su código  [aquí](src/ejer4/Principal.java) para completar y ejecutar el Programa 
 
 
 
