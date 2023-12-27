@@ -8,21 +8,11 @@ Realice un proyecto llamado **Practico1_Metodos**, con cuatro paquetes, *ejer1*,
  
 #### - Una clase llamada *Principal* . Dejo su código  [aquí](src/ejer1/Principal.java) desde donde podra descargar y ejecutar el Programa   
 
-## Ejercicio 2 (Random):  En el paquete **ejer2** crear:
+## Ejercicio 2 (Calculadora v2):  En el paquete **ejer2** copiar  las clases Principal y Calculadora del punto anterior.
+Usando los métodos de la clase Calculadora, probarlos nuevamente pero ahora pidiéndole al usuario que ingrese los valores. Y luego mostrar el resultado en pantalla de todas las funciones.
 
-#### - Una clase llamada *Programa*, donde realice un programa que genere un único número aleatorio entre el 1 y el 1000 (será fijo durante la ejecución) y además sucede lo siguiente:
-
-	• El usuario ingresará un valor, se imprime “Demasiado grande” si el número ingresado es más grande, y “Demasiado chico”, si el número ingresado es demasiado chico.
- 
-	• El usuario ingresa números hasta que coincida con el número aleatorio.
-
-	• El programa finaliza con el mensaje “Felicitaciones, acertó el número”.
-
-Dejo su código para completar   [aquí](src/ejer2/Programa.java)
- 
-#### - Una clase llamada *Principal* . Dejo su código  [aquí](src/ejer2/Principal.java) desde donde podra descargar y ejecutar el Programa 
-
-	
+Dejo su código para completar   [aquí](src/ejer3/Principal.java)
+ 	
 ## Ejercicio 3 (String):  En el paquete **ejer3** crear:
 #### - Una clase llamada *Programa*, donde realice un programa que:
 
