@@ -2,10 +2,16 @@ package ejer4;
 
 public class Principal {
 	public static void main(String[] args){
+		Programa prog4 = new Programa();
+		Scanner entrada = new Scanner(System.in);
 		
-		
-		Programa miProg4=new Programa();
-		miProg4.iniciar();
+		int cantidadEdades;
+		System.out.println("Cuantas edades va a ingresar? ");
+		cantidadEdades = entrada.nextInt();
+		prog4.ingresoEdades(cantidadEdades);
+		prog4.contar();
+		prog4.mostrar();
+
 		
 	}
 	
