@@ -11,7 +11,7 @@ Realice un proyecto llamado **Practico1_Metodos**, con cuatro paquetes, *ejer1*,
 ## Ejercicio 2 (Calculadora v2):  En el paquete **ejer2** copiar  las clases Principal y Calculadora del punto anterior.
 Usando los métodos de la clase Calculadora, probarlos nuevamente pero ahora pidiéndole al usuario que ingrese los valores. Y luego mostrar el resultado en pantalla de todas las funciones.
 
-Dejo su código para completar   [aquí](src/ejer2/Principal.java)
+Dejo su código hecho para la suma, completar para el resto de las operaciones.  [aquí](src/ejer2/Principal.java)
  	
 ## Ejercicio 3 (String):  En el paquete **ejer3** crear:
 #### - Una clase llamada *Programa*, donde realice un programa que:
