@@ -13,7 +13,12 @@ public class Calculadora {
 
 	//método multiplicar
 
-	//método dividir (recuerde chequear que no se realice la operación si el divisor es 0
+	//método dividir (recuerde chequear que no se realice la operación si el denominador es 0
+
+	//método modulo 
+	/*También llamada residuo (o resto): Esta función calcula el modulo (con el operador %)  de dos valores doubles que recibe de parámetro y regresa dicho cálculo. 
+	Debes validar que NO puede calcularse la división con un denominador de cero. Si el denominador es 0 (cero) deberás regresar -1.  
+
 	
 	
 	
